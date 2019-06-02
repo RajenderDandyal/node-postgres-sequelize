@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "avnadmin",
+    "password": "zajafekya6vfv6g8",
+    "database": "defaultdb",
+    "host": "pg-302f4f95-rajender-fe9e.aivencloud.com:23017",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
